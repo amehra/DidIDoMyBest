@@ -1,0 +1,21 @@
+{
+    "didIDoMyBestApp": {
+        "dailyAnswers" : {
+            "home": {
+                "title": "DailyAnswerss",
+                "createLabel": "Créer un nouveau DailyAnswers",
+                "createOrEditLabel": "Créer ou éditer un DailyAnswers"
+            },
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le DailyAnswers {{ id }} ?"
+            },
+            "detail": {
+                "title": "DailyAnswers"
+            },
+            "value": "Value",
+            "notes": "Notes",
+            "question": "Question"
+        }
+    }
+}
+

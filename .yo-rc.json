@@ -1,0 +1,25 @@
+{
+  "generator-jhipster": {
+    "baseName": "DidIDoMyBest",
+    "packageName": "com.dididomybest",
+    "packageFolder": "com/dididomybest",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "gulp",
+    "enableTranslation": true,
+    "enableSocialSignIn": true,
+    "rememberMeKey": "b1656d0f944d94fa3f362b0ceda049ef2fd0b693",
+    "testFrameworks": [
+      "gatling",
+      "cucumber"
+    ]
+  }
+}
